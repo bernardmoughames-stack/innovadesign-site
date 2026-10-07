@@ -1,0 +1,1 @@
+var e={t3:{cols:288,rows:192},t2:{cols:216,rows:144},t1:{cols:162,rows:108},t0:{cols:128,rows:86},build:{cols:384,rows:256}},t={width:1.2,height:.8},n=1.25*t.width,r={hero:{x:.12,y:-.45},morning:{x:.249,y:-.503},noon:{x:.07,y:-.626},lowSun:{x:.364,y:-.226}};export{r as i,t as n,e as r,n as t};

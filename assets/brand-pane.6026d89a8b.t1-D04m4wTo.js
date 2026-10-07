@@ -1,0 +1,1 @@
+var e=`/assets/brand-pane.6026d89a8b.t1-D9TPkQ7y.bin`;export{e as default};

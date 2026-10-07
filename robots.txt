@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pane
+
+Sitemap: https://innovadesign.me/sitemap.xml

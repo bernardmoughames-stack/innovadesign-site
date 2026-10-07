@@ -1,0 +1,1 @@
+var e=`/assets/brand-pane.6026d89a8b.t2-CABoxfcb.bin`;export{e as default};
